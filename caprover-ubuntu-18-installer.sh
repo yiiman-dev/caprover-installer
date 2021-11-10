@@ -36,7 +36,6 @@ sudo docker run -p 80:80 -p 443:443 -p 3000:3000 -v /var/run/docker.sock:/var/ru
 clear
 echo 'Caprover is now online'
 
-read -p "Do you want enable and config firewall ports this may affect on ssh connection? (Y/N): " confirm && [[ $confirm == [yY] || $confirm == [yY][eE][sS] ]] || exit 1
 
 sudo ufw enable
 
