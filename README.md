@@ -50,11 +50,11 @@ For more details and docs see CapRover.com
 ```
 After initialization, you can navigate to https://captain.server.[yourDomainName].com:
 
-!()[https://blog.logrocket.com/wp-content/uploads/2021/05/Caprover-screenshot3.png]
+![](https://blog.logrocket.com/wp-content/uploads/2021/05/Caprover-screenshot3.png)
 
 Let’s log in with our new and secure password:
 
-!()[https://blog.logrocket.com/wp-content/uploads/2021/05/CapRover-screenshot4.png]
+![](https://blog.logrocket.com/wp-content/uploads/2021/05/CapRover-screenshot4.png)
 
 Congratulations! Your CapRover PaaS is now up and running.
 
