@@ -61,7 +61,7 @@ Congratulations! Your CapRover PaaS is now up and running.
 
 ## Thanks
 I was searching for powerfull caprover installation help and i found [Dominik Sobe](https://blog.logrocket.com/author/dominiksobe/)'s article
-This repository is summary of [Dominik Sobe](https://blog.logrocket.com/author/dominiksobe/) solution
+This repository is summary of [Dominik Sobe](https://blog.logrocket.com/author/dominiksobe/)'s solution
 thanks from :
 
 [Dominik Sobe](https://blog.logrocket.com/author/dominiksobe/) for best [caprover installation article](https://blog.logrocket.com/how-to-set-up-your-own-paas-with-caprover/)
