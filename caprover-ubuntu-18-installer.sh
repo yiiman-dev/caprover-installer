@@ -30,7 +30,8 @@ clear
 
 
 echo 'Installation is done! now running caprover docker:'
-
+sudo docker pull nginx:1
+sudo docker pull caprover/caprover-placeholder-app:latest
 sudo docker run -p 80:80 -p 443:443 -p 3000:3000 -v /var/run/docker.sock:/var/run/docker.sock -v /captain:/captain caprover/caprover
 
 clear
